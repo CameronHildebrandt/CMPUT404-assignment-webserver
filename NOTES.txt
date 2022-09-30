@@ -1,0 +1,5 @@
+You can start a python webserver using:
+
+python3 -m http.server
+
+
